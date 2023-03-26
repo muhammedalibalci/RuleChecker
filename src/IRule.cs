@@ -3,7 +3,7 @@ namespace RuleChecker;
 public interface IRule
 {
     /// <summary>
-    /// A Type property that rseturns the type of the model associated with the rule.
+    /// A Type property that returns the type of the model associated with the rule.
     /// </summary>
     Type Type { get; }
     
