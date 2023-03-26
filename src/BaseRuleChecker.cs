@@ -1,6 +1,6 @@
-﻿using System.Linq.Expressions;
-
 namespace RuleChecker;
+
+using System.Linq.Expressions;
 
 public class BaseRuleChecker
 {
