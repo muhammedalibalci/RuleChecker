@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuleChecker", "src\RuleChecker.csproj", "{4BE7AEA3-552E-4414-8846-5F5AA38C06F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuleChecker.UnitTests", "test\RuleChecker.UnitTests\RuleChecker.UnitTests.csproj", "{AB43100D-3BA5-47C7-B33D-2A00EF078270}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{4BE7AEA3-552E-4414-8846-5F5AA38C06F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BE7AEA3-552E-4414-8846-5F5AA38C06F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BE7AEA3-552E-4414-8846-5F5AA38C06F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB43100D-3BA5-47C7-B33D-2A00EF078270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB43100D-3BA5-47C7-B33D-2A00EF078270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB43100D-3BA5-47C7-B33D-2A00EF078270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB43100D-3BA5-47C7-B33D-2A00EF078270}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
